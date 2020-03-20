@@ -1,0 +1,291 @@
+2018-07-15 20:24:52,547 [INFO] [src/MainServer.cpp:start:35] Server Started
+2018-07-15 20:24:52,859 [INFO] [src/MyDict.cpp:init:18] Dict Initializei.
+2018-07-15 20:24:52,859 [INFO] [src/CacheManager.cpp:initCache:14] The main Cache was initialize.
+2018-07-15 20:24:52,860 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 20:24:52,860 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 20:24:52,860 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 20:24:52,860 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 20:24:57,860 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 20:25:02,860 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 20:25:07,860 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 20:25:12,372 [INFO] [src/MainServer.cpp:onConnection:16] 192.168.4.56:9999 -> 192.168.4.56:48972 The link was established.
+2018-07-15 20:25:12,373 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 20:25:12,860 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 20:25:16,008 [WARN] [src/CacheManager.cpp:getCache:27] A new Cache was mapped to a thread.
+2018-07-15 20:25:16,009 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 20:25:17,860 [WARN] [src/CacheManager.cpp:periodcUpdate:87] 1 cache on disk updated.
+2018-07-15 20:25:20,116 [WARN] [src/CacheManager.cpp:getCache:27] A new Cache was mapped to a thread.
+2018-07-15 20:25:20,116 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 20:25:22,860 [WARN] [src/CacheManager.cpp:periodcUpdate:87] 1 cache on disk updated.
+2018-07-15 20:25:27,127 [WARN] [src/CacheManager.cpp:getCache:27] A new Cache was mapped to a thread.
+2018-07-15 20:25:27,128 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 20:25:27,860 [WARN] [src/CacheManager.cpp:periodcUpdate:87] 1 cache on disk updated.
+2018-07-15 20:25:32,860 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 20:25:37,860 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 20:25:42,860 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 20:25:47,860 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 20:25:52,860 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:25:58,473 [INFO] [src/MainServer.cpp:start:35] Server Started
+2018-07-15 21:25:58,785 [INFO] [src/MyDict.cpp:init:18] Dict Initializei.
+2018-07-15 21:25:58,785 [INFO] [src/CacheManager.cpp:initCache:14] The main Cache was initialize.
+2018-07-15 21:25:58,785 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 21:25:58,785 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 21:25:58,785 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 21:25:58,785 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 21:26:00,721 [INFO] [src/MainServer.cpp:onConnection:16] 192.168.4.56:9999 -> 192.168.4.56:51876 The link was established.
+2018-07-15 21:26:00,721 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:26:02,715 [WARN] [src/CacheManager.cpp:getCache:27] A new Cache was mapped to a thread.
+2018-07-15 21:26:02,882 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:26:03,785 [WARN] [src/CacheManager.cpp:periodcUpdate:87] 1 cache on disk updated.
+2018-07-15 21:26:06,737 [WARN] [src/CacheManager.cpp:getCache:27] A new Cache was mapped to a thread.
+2018-07-15 21:26:06,859 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:26:08,785 [WARN] [src/CacheManager.cpp:periodcUpdate:87] 1 cache on disk updated.
+2018-07-15 21:27:21,613 [INFO] [src/MainServer.cpp:start:35] Server Started
+2018-07-15 21:27:21,926 [INFO] [src/MyDict.cpp:init:18] Dict Initializei.
+2018-07-15 21:27:21,926 [INFO] [src/CacheManager.cpp:initCache:14] The main Cache was initialize.
+2018-07-15 21:27:21,926 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 21:27:21,926 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 21:27:21,926 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 21:27:21,926 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 21:27:23,328 [INFO] [src/MainServer.cpp:onConnection:16] 192.168.4.56:9999 -> 192.168.4.56:51900 The link was established.
+2018-07-15 21:27:23,328 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:27:25,016 [WARN] [src/CacheManager.cpp:getCache:27] A new Cache was mapped to a thread.
+2018-07-15 21:27:25,017 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:27:26,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:27:30,122 [WARN] [src/CacheManager.cpp:getCache:27] A new Cache was mapped to a thread.
+2018-07-15 21:27:30,434 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:27:31,926 [WARN] [src/CacheManager.cpp:periodcUpdate:87] 1 cache on disk updated.
+2018-07-15 21:27:36,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:27:41,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:27:46,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:27:51,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:27:56,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:28:01,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:28:06,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:28:11,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:28:16,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:28:21,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:28:26,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:28:31,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:28:36,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:28:41,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:28:44,688 [INFO] [src/MainServer.cpp:onClose:30] 192.168.4.56:9999 -> 192.168.4.56:51900 close.
+2018-07-15 21:28:46,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:28:51,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:28:56,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:29:01,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:29:06,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:29:11,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:29:16,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:29:21,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:29:26,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:29:31,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:29:36,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:29:41,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:29:46,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:29:51,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:29:56,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:30:01,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:30:06,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:30:11,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:30:16,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:30:21,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:30:26,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:30:31,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:30:36,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:30:41,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:30:46,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:30:51,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:30:56,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:31:01,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:31:06,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:31:11,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:31:16,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:31:21,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:31:26,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:31:31,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:31:36,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:31:41,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:31:46,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:31:51,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:31:56,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:32:01,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:32:06,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:32:11,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:32:16,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:32:21,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:32:26,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:32:31,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:32:36,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:32:41,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:32:46,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:32:51,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:32:56,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:33:01,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:33:06,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:33:11,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:33:16,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:33:21,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:33:26,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:33:31,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:33:36,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:33:41,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:33:42,146 [INFO] [src/MainServer.cpp:onConnection:16] 192.168.4.56:9999 -> 192.168.4.56:52120 The link was established.
+2018-07-15 21:33:42,146 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:33:43,458 [WARN] [src/CacheManager.cpp:getCache:27] A new Cache was mapped to a thread.
+2018-07-15 21:33:43,656 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:33:45,910 [INFO] [src/MainServer.cpp:onClose:30] 192.168.4.56:9999 -> 192.168.4.56:52120 close.
+2018-07-15 21:33:46,926 [WARN] [src/CacheManager.cpp:periodcUpdate:87] 1 cache on disk updated.
+2018-07-15 21:33:51,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:33:56,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:34:01,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:34:06,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:34:11,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:34:16,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:34:21,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:34:26,389 [INFO] [src/MainServer.cpp:onConnection:16] 192.168.4.56:9999 -> 192.168.4.56:52132 The link was established.
+2018-07-15 21:34:26,389 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:34:26,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:34:27,598 [WARN] [src/CacheManager.cpp:getCache:27] A new Cache was mapped to a thread.
+2018-07-15 21:34:27,705 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:34:31,926 [WARN] [src/CacheManager.cpp:periodcUpdate:87] 1 cache on disk updated.
+2018-07-15 21:34:36,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:34:41,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:34:46,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:34:51,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:34:56,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:35:01,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:35:06,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:35:11,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:35:16,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:35:21,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:35:26,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:35:31,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:35:36,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:35:41,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:35:46,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:35:51,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:35:56,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:36:01,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:36:06,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:36:11,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:36:16,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:36:21,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:36:26,926 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:39:33,210 [INFO] [src/MainServer.cpp:start:35] Server Started
+2018-07-15 21:39:33,522 [INFO] [src/MyDict.cpp:init:18] Dict Initializei.
+2018-07-15 21:39:33,522 [INFO] [src/CacheManager.cpp:initCache:14] The main Cache was initialize.
+2018-07-15 21:39:33,522 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 21:39:33,522 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 21:39:33,522 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 21:39:33,522 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 21:39:38,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:39:40,925 [INFO] [src/MainServer.cpp:onConnection:16] 192.168.4.56:9999 -> 192.168.4.56:52464 The link was established.
+2018-07-15 21:39:40,925 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:39:41,576 [WARN] [src/CacheManager.cpp:getCache:27] A new Cache was mapped to a thread.
+2018-07-15 21:39:41,712 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:39:43,523 [WARN] [src/CacheManager.cpp:periodcUpdate:87] 1 cache on disk updated.
+2018-07-15 21:39:48,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:39:51,155 [INFO] [src/MainServer.cpp:onClose:30] 192.168.4.56:9999 -> 192.168.4.56:52464 close.
+2018-07-15 21:39:53,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:39:58,522 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:40:03,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:40:08,522 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:40:13,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:40:17,648 [INFO] [src/MainServer.cpp:onConnection:16] 192.168.4.56:9999 -> 192.168.4.56:52472 The link was established.
+2018-07-15 21:40:17,648 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:40:18,489 [WARN] [src/CacheManager.cpp:getCache:27] A new Cache was mapped to a thread.
+2018-07-15 21:40:18,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:40:18,692 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:40:23,522 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:40:28,484 [WARN] [src/CacheManager.cpp:getCache:27] A new Cache was mapped to a thread.
+2018-07-15 21:40:28,484 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:40:28,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:40:33,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:40:36,900 [INFO] [src/MainServer.cpp:onClose:30] 192.168.4.56:9999 -> 192.168.4.56:52472 close.
+2018-07-15 21:40:38,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:40:43,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:40:48,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:40:53,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:40:58,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:41:03,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:41:08,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:41:13,522 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:41:18,522 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:41:23,522 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:41:28,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:41:33,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:41:38,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:41:43,522 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:41:48,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:41:53,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:41:58,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:42:03,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:42:08,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:42:13,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:42:18,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:42:23,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:42:28,522 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:42:33,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:42:38,522 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:42:43,522 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:42:48,522 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:42:53,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:42:58,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:43:03,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:43:08,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:43:13,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:43:18,522 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:43:23,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:43:28,522 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:43:33,522 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:43:38,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:43:43,522 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:43:48,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:43:52,398 [INFO] [src/MainServer.cpp:onConnection:16] 192.168.4.56:9999 -> 192.168.4.56:52534 The link was established.
+2018-07-15 21:43:52,398 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 9
+2018-07-15 21:43:53,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:43:53,554 [WARN] [src/CacheManager.cpp:getCache:27] A new Cache was mapped to a thread.
+2018-07-15 21:43:53,759 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 9
+2018-07-15 21:43:58,523 [WARN] [src/CacheManager.cpp:periodcUpdate:87] 1 cache on disk updated.
+2018-07-15 21:44:03,523 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:44:04,951 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 9
+2018-07-15 21:44:08,522 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:44:13,522 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:44:18,522 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:44:23,522 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:44:25,188 [INFO] [src/MainServer.cpp:onClose:30] 192.168.4.56:9999 -> 192.168.4.56:52534 close.
+2018-07-15 21:47:21,187 [INFO] [src/MainServer.cpp:start:35] Server Started
+2018-07-15 21:47:21,502 [INFO] [src/MyDict.cpp:init:18] Dict Initializei.
+2018-07-15 21:47:21,502 [INFO] [src/CacheManager.cpp:initCache:14] The main Cache was initialize.
+2018-07-15 21:47:21,503 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 21:47:21,503 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 21:47:21,503 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 21:47:21,503 [WARN] [./include/WorkerThread.h:WorkerThread:26] A new workerthread was created.
+2018-07-15 21:47:24,457 [INFO] [src/MainServer.cpp:onConnection:16] 192.168.4.56:9999 -> 192.168.4.56:52548 The link was established.
+2018-07-15 21:47:24,457 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:47:25,998 [WARN] [src/CacheManager.cpp:getCache:27] A new Cache was mapped to a thread.
+2018-07-15 21:47:26,188 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:47:26,503 [WARN] [src/CacheManager.cpp:periodcUpdate:87] 1 cache on disk updated.
+2018-07-15 21:47:31,503 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:47:36,503 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:47:39,930 [WARN] [src/CacheManager.cpp:getCache:27] A new Cache was mapped to a thread.
+2018-07-15 21:47:40,047 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:47:41,503 [WARN] [src/CacheManager.cpp:periodcUpdate:87] 1 cache on disk updated.
+2018-07-15 21:47:45,907 [INFO] [src/MainServer.cpp:onClose:30] 192.168.4.56:9999 -> 192.168.4.56:52548 close.
+2018-07-15 21:47:46,503 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:47:51,503 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:47:56,503 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:48:01,503 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:48:06,503 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:48:11,503 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:48:15,726 [INFO] [src/MainServer.cpp:onConnection:16] 192.168.4.56:9999 -> 192.168.4.56:52560 The link was established.
+2018-07-15 21:48:15,726 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:48:16,503 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2018-07-15 21:48:16,963 [WARN] [src/CacheManager.cpp:getCache:27] A new Cache was mapped to a thread.
+2018-07-15 21:48:17,036 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:48:21,503 [WARN] [src/CacheManager.cpp:periodcUpdate:87] 1 cache on disk updated.
+2018-07-15 21:48:23,010 [WARN] [src/CacheManager.cpp:getCache:27] A new Cache was mapped to a thread.
+2018-07-15 21:48:23,232 [WARN] [src/TcpConnection.cpp:send:59] Message sent through socket 8
+2018-07-15 21:48:26,503 [WARN] [src/CacheManager.cpp:periodcUpdate:87] 1 cache on disk updated.
+2018-07-15 21:48:26,784 [INFO] [src/MainServer.cpp:onClose:30] 192.168.4.56:9999 -> 192.168.4.56:52560 close.
